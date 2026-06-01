@@ -1,6 +1,6 @@
 <div align="center">
 
-# Visionaire Labs
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://visionaire.b-cdn.net/BRANDING/Visionaire_Labs_logo_white.png"><img src="https://visionaire.b-cdn.net/BRANDING/Visionaire_Labs%C2%AE_logo_blk.png" alt="Visionaire Labs" width="380"></picture>
 
 **A creative AI research lab at the intersection of art and artificial intelligence.**
 
